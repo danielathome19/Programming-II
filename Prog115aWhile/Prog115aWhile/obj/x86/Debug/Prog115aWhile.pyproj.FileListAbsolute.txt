@@ -1,0 +1,14 @@
+C:\Users\daniel.szelogowsk\Desktop\Programming-II-1\Prog115aWhile\Prog115aWhile\bin\Debug\Prog115aWhile.exe.config
+C:\Users\daniel.szelogowsk\Desktop\Programming-II-1\Prog115aWhile\Prog115aWhile\bin\Debug\Prog115aWhile.exe
+C:\Users\daniel.szelogowsk\Desktop\Programming-II-1\Prog115aWhile\Prog115aWhile\bin\Debug\Prog115aWhile.dll
+C:\Users\daniel.szelogowsk\Desktop\Programming-II-1\Prog115aWhile\Prog115aWhile\bin\Debug\IronPython.dll
+C:\Users\daniel.szelogowsk\Desktop\Programming-II-1\Prog115aWhile\Prog115aWhile\bin\Debug\IronPython.Modules.dll
+C:\Users\daniel.szelogowsk\Desktop\Programming-II-1\Prog115aWhile\Prog115aWhile\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\daniel.szelogowsk\Desktop\Programming-II-1\Prog115aWhile\Prog115aWhile\bin\Debug\Microsoft.Scripting.dll
+C:\Users\daniel.szelogowsk\Desktop\Programming-II-1\Prog115aWhile\Prog115aWhile\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\daniel.szelogowsk\Desktop\Programming-II-1\Prog115aWhile\Prog115aWhile\bin\Debug\IronPython.xml
+C:\Users\daniel.szelogowsk\Desktop\Programming-II-1\Prog115aWhile\Prog115aWhile\bin\Debug\IronPython.Modules.xml
+C:\Users\daniel.szelogowsk\Desktop\Programming-II-1\Prog115aWhile\Prog115aWhile\obj\x86\Debug\Prog115aWhile.pyprojResolveAssemblyReference.cache
+C:\Users\daniel.szelogowsk\Desktop\Programming-II-1\Prog115aWhile\Prog115aWhile\obj\x86\Debug\Prog115aWhile.MainForm.resources
+C:\Users\daniel.szelogowsk\Desktop\Programming-II-1\Prog115aWhile\Prog115aWhile\obj\x86\Debug\Prog115aWhile.pyproj.GenerateResource.Cache
+C:\Users\daniel.szelogowsk\Desktop\Programming-II-1\Prog115aWhile\Prog115aWhile\obj\x86\Debug\Prog115aWhile.exe

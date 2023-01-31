@@ -1,0 +1,14 @@
+C:\Users\daniel.szelogowsk\Desktop\Programming-II-1\Prog166eWhile\Prog166eWhile\obj\x86\Debug\Prog166eWhile.pyprojResolveAssemblyReference.cache
+C:\Users\daniel.szelogowsk\Desktop\Programming-II-1\Prog166eWhile\Prog166eWhile\obj\x86\Debug\Prog166eWhile.MainForm.resources
+C:\Users\daniel.szelogowsk\Desktop\Programming-II-1\Prog166eWhile\Prog166eWhile\obj\x86\Debug\Prog166eWhile.pyproj.GenerateResource.Cache
+C:\Users\daniel.szelogowsk\Desktop\Programming-II-1\Prog166eWhile\Prog166eWhile\bin\Debug\Prog166eWhile.exe.config
+C:\Users\daniel.szelogowsk\Desktop\Programming-II-1\Prog166eWhile\Prog166eWhile\bin\Debug\Prog166eWhile.exe
+C:\Users\daniel.szelogowsk\Desktop\Programming-II-1\Prog166eWhile\Prog166eWhile\bin\Debug\Prog166eWhile.dll
+C:\Users\daniel.szelogowsk\Desktop\Programming-II-1\Prog166eWhile\Prog166eWhile\bin\Debug\IronPython.dll
+C:\Users\daniel.szelogowsk\Desktop\Programming-II-1\Prog166eWhile\Prog166eWhile\bin\Debug\IronPython.Modules.dll
+C:\Users\daniel.szelogowsk\Desktop\Programming-II-1\Prog166eWhile\Prog166eWhile\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\daniel.szelogowsk\Desktop\Programming-II-1\Prog166eWhile\Prog166eWhile\bin\Debug\Microsoft.Scripting.dll
+C:\Users\daniel.szelogowsk\Desktop\Programming-II-1\Prog166eWhile\Prog166eWhile\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\daniel.szelogowsk\Desktop\Programming-II-1\Prog166eWhile\Prog166eWhile\bin\Debug\IronPython.xml
+C:\Users\daniel.szelogowsk\Desktop\Programming-II-1\Prog166eWhile\Prog166eWhile\bin\Debug\IronPython.Modules.xml
+C:\Users\daniel.szelogowsk\Desktop\Programming-II-1\Prog166eWhile\Prog166eWhile\obj\x86\Debug\Prog166eWhile.exe
