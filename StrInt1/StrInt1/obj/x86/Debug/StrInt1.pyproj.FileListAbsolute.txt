@@ -1,0 +1,14 @@
+C:\Users\daniel.szelogowsk\Desktop\Programming-II-1\StrInt1\StrInt1\bin\Debug\StrInt1.exe.config
+C:\Users\daniel.szelogowsk\Desktop\Programming-II-1\StrInt1\StrInt1\bin\Debug\StrInt1.exe
+C:\Users\daniel.szelogowsk\Desktop\Programming-II-1\StrInt1\StrInt1\bin\Debug\StrInt1.dll
+C:\Users\daniel.szelogowsk\Desktop\Programming-II-1\StrInt1\StrInt1\bin\Debug\IronPython.dll
+C:\Users\daniel.szelogowsk\Desktop\Programming-II-1\StrInt1\StrInt1\bin\Debug\IronPython.Modules.dll
+C:\Users\daniel.szelogowsk\Desktop\Programming-II-1\StrInt1\StrInt1\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\daniel.szelogowsk\Desktop\Programming-II-1\StrInt1\StrInt1\bin\Debug\Microsoft.Scripting.dll
+C:\Users\daniel.szelogowsk\Desktop\Programming-II-1\StrInt1\StrInt1\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\daniel.szelogowsk\Desktop\Programming-II-1\StrInt1\StrInt1\bin\Debug\IronPython.xml
+C:\Users\daniel.szelogowsk\Desktop\Programming-II-1\StrInt1\StrInt1\bin\Debug\IronPython.Modules.xml
+C:\Users\daniel.szelogowsk\Desktop\Programming-II-1\StrInt1\StrInt1\obj\x86\Debug\StrInt1.pyprojResolveAssemblyReference.cache
+C:\Users\daniel.szelogowsk\Desktop\Programming-II-1\StrInt1\StrInt1\obj\x86\Debug\StrInt1.MainForm.resources
+C:\Users\daniel.szelogowsk\Desktop\Programming-II-1\StrInt1\StrInt1\obj\x86\Debug\StrInt1.pyproj.GenerateResource.Cache
+C:\Users\daniel.szelogowsk\Desktop\Programming-II-1\StrInt1\StrInt1\obj\x86\Debug\StrInt1.exe
