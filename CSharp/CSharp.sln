@@ -15,6 +15,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lang54a", "Lang54a\Lang54a.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lang88a", "Lang88a\Lang88a.csproj", "{E0A61425-C56E-4E61-B20C-3B935C43CD45}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LP4-5", "LP4-5\LP4-5.csproj", "{9868FD28-12FC-49A2-91F8-B7938B602892}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LP4-1", "LP4-1\LP4-1.csproj", "{6C1C8508-B441-4463-BB9E-AEA868106D50}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +49,14 @@ Global
 		{E0A61425-C56E-4E61-B20C-3B935C43CD45}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E0A61425-C56E-4E61-B20C-3B935C43CD45}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E0A61425-C56E-4E61-B20C-3B935C43CD45}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9868FD28-12FC-49A2-91F8-B7938B602892}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9868FD28-12FC-49A2-91F8-B7938B602892}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9868FD28-12FC-49A2-91F8-B7938B602892}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9868FD28-12FC-49A2-91F8-B7938B602892}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C1C8508-B441-4463-BB9E-AEA868106D50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C1C8508-B441-4463-BB9E-AEA868106D50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C1C8508-B441-4463-BB9E-AEA868106D50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C1C8508-B441-4463-BB9E-AEA868106D50}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
