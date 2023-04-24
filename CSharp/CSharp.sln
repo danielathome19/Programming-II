@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LP4-1", "LP4-1\LP4-1.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LP4-2", "LP4-2\LP4-2.csproj", "{97EA667A-8030-483E-B9A7-344C150325C9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lang122a", "Lang122a\Lang122a.csproj", "{1726D9CF-400D-4C59-B79E-16DFC2339443}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{97EA667A-8030-483E-B9A7-344C150325C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{97EA667A-8030-483E-B9A7-344C150325C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{97EA667A-8030-483E-B9A7-344C150325C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1726D9CF-400D-4C59-B79E-16DFC2339443}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1726D9CF-400D-4C59-B79E-16DFC2339443}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1726D9CF-400D-4C59-B79E-16DFC2339443}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1726D9CF-400D-4C59-B79E-16DFC2339443}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
