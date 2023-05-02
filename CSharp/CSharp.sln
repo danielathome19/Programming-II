@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pg347Sum", "Pg347Sum\Pg347S
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalcWithFunctions", "CalcWithFunctions\CalcWithFunctions.csproj", "{351A7A1B-139D-4B0C-9522-3514087887D7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lang366b", "Lang366b\Lang366b.csproj", "{07F3BA60-614E-4B4B-AF46-4B6577988D92}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{351A7A1B-139D-4B0C-9522-3514087887D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{351A7A1B-139D-4B0C-9522-3514087887D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{351A7A1B-139D-4B0C-9522-3514087887D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07F3BA60-614E-4B4B-AF46-4B6577988D92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07F3BA60-614E-4B4B-AF46-4B6577988D92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07F3BA60-614E-4B4B-AF46-4B6577988D92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07F3BA60-614E-4B4B-AF46-4B6577988D92}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
