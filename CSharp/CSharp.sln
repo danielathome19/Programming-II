@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lang366b", "Lang366b\Lang36
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pg435TicketSalesCS", "Pg435TicketSalesCS\Pg435TicketSalesCS.csproj", "{3ADF151A-62EE-489A-8843-2A23862668DD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pg498Payroll", "Pg498Payroll\Pg498Payroll.csproj", "{B1E37983-7CE2-4AD8-A8AE-9005F0552018}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +101,10 @@ Global
 		{3ADF151A-62EE-489A-8843-2A23862668DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3ADF151A-62EE-489A-8843-2A23862668DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3ADF151A-62EE-489A-8843-2A23862668DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1E37983-7CE2-4AD8-A8AE-9005F0552018}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1E37983-7CE2-4AD8-A8AE-9005F0552018}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1E37983-7CE2-4AD8-A8AE-9005F0552018}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1E37983-7CE2-4AD8-A8AE-9005F0552018}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
