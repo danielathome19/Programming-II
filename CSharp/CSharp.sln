@@ -35,6 +35,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pg435TicketSalesCS", "Pg435
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pg498Payroll", "Pg498Payroll\Pg498Payroll.csproj", "{B1E37983-7CE2-4AD8-A8AE-9005F0552018}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StrInterview7", "StrInterview7\StrInterview7.csproj", "{5D18F2B2-C0E4-43A4-BFE4-08A6B527C577}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StrInterview16", "StrInterview16\StrInterview16.csproj", "{9D12178C-C505-4325-BAC9-E4F14A3EBABD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -105,6 +109,14 @@ Global
 		{B1E37983-7CE2-4AD8-A8AE-9005F0552018}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B1E37983-7CE2-4AD8-A8AE-9005F0552018}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B1E37983-7CE2-4AD8-A8AE-9005F0552018}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D18F2B2-C0E4-43A4-BFE4-08A6B527C577}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D18F2B2-C0E4-43A4-BFE4-08A6B527C577}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D18F2B2-C0E4-43A4-BFE4-08A6B527C577}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D18F2B2-C0E4-43A4-BFE4-08A6B527C577}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D12178C-C505-4325-BAC9-E4F14A3EBABD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D12178C-C505-4325-BAC9-E4F14A3EBABD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D12178C-C505-4325-BAC9-E4F14A3EBABD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D12178C-C505-4325-BAC9-E4F14A3EBABD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
