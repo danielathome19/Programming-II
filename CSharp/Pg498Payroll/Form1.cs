@@ -28,6 +28,7 @@ namespace Pg498Payroll
             int[] intHours = new int[intMAX_EMPLOYEES];
             // Make a new int array of capacity intMAX_EMPLOYEES
             // Capacity can never change, unlike lists in Python
+            // Explicitly define an array with int[] thing = {0, 1, 2, 3, 4}; (len 5)
             int intCount = 0;          // Loop counter
             int intEmpHours = 0;       // Hours
             decimal decEmpPay = 0.0m;  // Gross pay
