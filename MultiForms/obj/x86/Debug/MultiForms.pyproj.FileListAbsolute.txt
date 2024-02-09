@@ -1,0 +1,15 @@
+C:\Users\daniel.szelogowsk\Desktop\Programming-II\MultiForms\bin\Debug\MultiForms.exe.config
+C:\Users\daniel.szelogowsk\Desktop\Programming-II\MultiForms\bin\Debug\MultiForms.exe
+C:\Users\daniel.szelogowsk\Desktop\Programming-II\MultiForms\bin\Debug\MultiForms.dll
+C:\Users\daniel.szelogowsk\Desktop\Programming-II\MultiForms\bin\Debug\IronPython.dll
+C:\Users\daniel.szelogowsk\Desktop\Programming-II\MultiForms\bin\Debug\IronPython.Modules.dll
+C:\Users\daniel.szelogowsk\Desktop\Programming-II\MultiForms\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\daniel.szelogowsk\Desktop\Programming-II\MultiForms\bin\Debug\Microsoft.Scripting.dll
+C:\Users\daniel.szelogowsk\Desktop\Programming-II\MultiForms\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\daniel.szelogowsk\Desktop\Programming-II\MultiForms\bin\Debug\IronPython.xml
+C:\Users\daniel.szelogowsk\Desktop\Programming-II\MultiForms\bin\Debug\IronPython.Modules.xml
+C:\Users\daniel.szelogowsk\Desktop\Programming-II\MultiForms\obj\x86\Debug\MultiForms.pyprojResolveAssemblyReference.cache
+C:\Users\daniel.szelogowsk\Desktop\Programming-II\MultiForms\obj\x86\Debug\MultiForms.Form1.resources
+C:\Users\daniel.szelogowsk\Desktop\Programming-II\MultiForms\obj\x86\Debug\MultiForms.MainForm.resources
+C:\Users\daniel.szelogowsk\Desktop\Programming-II\MultiForms\obj\x86\Debug\MultiForms.pyproj.GenerateResource.Cache
+C:\Users\daniel.szelogowsk\Desktop\Programming-II\MultiForms\obj\x86\Debug\MultiForms.exe
