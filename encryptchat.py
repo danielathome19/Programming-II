@@ -1,6 +1,6 @@
-import threading
-import socket
 import rsa  # pip install rsa
+import socket
+import threading
 
 public_key, private_key = rsa.newkeys(1024)  # 1024 bits
 DEFAULT_IP_PORT = ("127.0.0.1", 9999)
