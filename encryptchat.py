@@ -41,7 +41,7 @@ def recvMsg(c):
       msg = rsa.decrypt(c.recv(1024), private_key)
       print("\033[94mPartner: \033[0m" + msg.decode())
     except:
-      input("Partner has disconnected. Press enter to exit.")
+      print("Partner has disconnected. Press enter to exit.")
       exit()
 
 try:
