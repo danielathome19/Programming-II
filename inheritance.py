@@ -21,8 +21,3 @@ class Cat(Animal):
 cat = Cat("Billy", 5, "Meow")
 cat.sayHi()
 cat.saySound()
-
-
-
-
-
