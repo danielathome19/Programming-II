@@ -1,0 +1,9 @@
+C:\Users\daniel.szelogowsk\Desktop\Programming-II\CSharp\CSharp\HelloName\bin\Debug\HelloName.exe.config
+C:\Users\daniel.szelogowsk\Desktop\Programming-II\CSharp\CSharp\HelloName\bin\Debug\HelloName.exe
+C:\Users\daniel.szelogowsk\Desktop\Programming-II\CSharp\CSharp\HelloName\bin\Debug\HelloName.pdb
+C:\Users\daniel.szelogowsk\Desktop\Programming-II\CSharp\CSharp\HelloName\obj\Debug\HelloName.csprojResolveAssemblyReference.cache
+C:\Users\daniel.szelogowsk\Desktop\Programming-II\CSharp\CSharp\HelloName\obj\Debug\HelloName.exe
+C:\Users\daniel.szelogowsk\Desktop\Programming-II\CSharp\CSharp\HelloName\obj\Debug\HelloName.pdb
+C:\Users\daniel.szelogowsk\Desktop\Programming-II\CSharp\HelloName\bin\Debug\HelloName.exe.config
+C:\Users\daniel.szelogowsk\Desktop\Programming-II\CSharp\HelloName\obj\Debug\HelloName.exe
+C:\Users\daniel.szelogowsk\Desktop\Programming-II\CSharp\HelloName\obj\Debug\HelloName.pdb

@@ -1,0 +1,18 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 4.2.1.8805
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorld", "HelloWorld.csproj", "{60D5CBD0-6B8D-46BA-9B1B-9F4598592988}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{60D5CBD0-6B8D-46BA-9B1B-9F4598592988}.Debug|x86.Build.0 = Debug|x86
+		{60D5CBD0-6B8D-46BA-9B1B-9F4598592988}.Debug|x86.ActiveCfg = Debug|x86
+		{60D5CBD0-6B8D-46BA-9B1B-9F4598592988}.Release|x86.Build.0 = Release|x86
+		{60D5CBD0-6B8D-46BA-9B1B-9F4598592988}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+EndGlobal

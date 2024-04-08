@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloName", "HelloName\HelloName.csproj", "{7C0CDF89-F8DC-4533-9D2D-71196946E729}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FavClub", "FavClub\FavClub.csproj", "{4AC6F3CF-B7CB-48E8-8AD7-C7B75020FA3D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7C0CDF89-F8DC-4533-9D2D-71196946E729}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C0CDF89-F8DC-4533-9D2D-71196946E729}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C0CDF89-F8DC-4533-9D2D-71196946E729}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C0CDF89-F8DC-4533-9D2D-71196946E729}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4AC6F3CF-B7CB-48E8-8AD7-C7B75020FA3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4AC6F3CF-B7CB-48E8-8AD7-C7B75020FA3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4AC6F3CF-B7CB-48E8-8AD7-C7B75020FA3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4AC6F3CF-B7CB-48E8-8AD7-C7B75020FA3D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
