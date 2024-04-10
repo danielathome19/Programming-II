@@ -1,0 +1,6 @@
+C:\Users\daniel.szelogowsk\Desktop\Programming-II\CSharp\Prog52aConsole\bin\Debug\Prog52aConsole.exe.config
+C:\Users\daniel.szelogowsk\Desktop\Programming-II\CSharp\Prog52aConsole\bin\Debug\Prog52aConsole.exe
+C:\Users\daniel.szelogowsk\Desktop\Programming-II\CSharp\Prog52aConsole\bin\Debug\Prog52aConsole.pdb
+C:\Users\daniel.szelogowsk\Desktop\Programming-II\CSharp\Prog52aConsole\obj\Debug\Prog52aConsole.csprojResolveAssemblyReference.cache
+C:\Users\daniel.szelogowsk\Desktop\Programming-II\CSharp\Prog52aConsole\obj\Debug\Prog52aConsole.exe
+C:\Users\daniel.szelogowsk\Desktop\Programming-II\CSharp\Prog52aConsole\obj\Debug\Prog52aConsole.pdb
