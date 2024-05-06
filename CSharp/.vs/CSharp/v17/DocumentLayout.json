@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\daniel.szelogowsk\\Desktop\\Programming-II\\CSharp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F9373C33-0D38-4AB9-AF44-6C4EE03AF714}|Pg347Sum\\Pg347Sum.csproj|c:\\users\\daniel.szelogowsk\\desktop\\programming-ii\\csharp\\pg347sum\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{F9373C33-0D38-4AB9-AF44-6C4EE03AF714}|Pg347Sum\\Pg347Sum.csproj|solutionrelative:pg347sum\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F9373C33-0D38-4AB9-AF44-6C4EE03AF714}|Pg347Sum\\Pg347Sum.csproj|c:\\users\\daniel.szelogowsk\\desktop\\programming-ii\\csharp\\pg347sum\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F9373C33-0D38-4AB9-AF44-6C4EE03AF714}|Pg347Sum\\Pg347Sum.csproj|solutionrelative:pg347sum\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1610BF02-E9C3-45AF-8914-A4AEB7F8896D}|Prog310a\\Prog310a.csproj|c:\\users\\daniel.szelogowsk\\desktop\\programming-ii\\csharp\\prog310a\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1610BF02-E9C3-45AF-8914-A4AEB7F8896D}|Prog310a\\Prog310a.csproj|solutionrelative:prog310a\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2D0B8357-9414-441B-ADB1-97D1A3CEC8EA}|CalcWithFunctions\\CalcWithFunctions.csproj|c:\\users\\daniel.szelogowsk\\desktop\\programming-ii\\csharp\\calcwithfunctions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D0B8357-9414-441B-ADB1-97D1A3CEC8EA}|CalcWithFunctions\\CalcWithFunctions.csproj|solutionrelative:calcwithfunctions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1610BF02-E9C3-45AF-8914-A4AEB7F8896D}|Prog310a\\Prog310a.csproj|c:\\users\\daniel.szelogowsk\\desktop\\programming-ii\\csharp\\prog310a\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{1610BF02-E9C3-45AF-8914-A4AEB7F8896D}|Prog310a\\Prog310a.csproj|solutionrelative:prog310a\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9373C33-0D38-4AB9-AF44-6C4EE03AF714}|Pg347Sum\\Pg347Sum.csproj|C:\\Users\\daniel.szelogowsk\\Desktop\\Programming-II\\CSharp\\pg347sum\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F9373C33-0D38-4AB9-AF44-6C4EE03AF714}|Pg347Sum\\Pg347Sum.csproj|solutionrelative:pg347sum\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1610BF02-E9C3-45AF-8914-A4AEB7F8896D}|Prog310a\\Prog310a.csproj|C:\\Users\\daniel.szelogowsk\\Desktop\\Programming-II\\CSharp\\prog310a\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1610BF02-E9C3-45AF-8914-A4AEB7F8896D}|Prog310a\\Prog310a.csproj|solutionrelative:prog310a\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,23 +26,22 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\daniel.szelogowsk\\Desktop\\Programming-II\\CSharp\\Pg347Sum\\Form1.cs",
               "RelativeDocumentMoniker": "Pg347Sum\\Form1.cs",
               "ToolTip": "C:\\Users\\daniel.szelogowsk\\Desktop\\Programming-II\\CSharp\\Pg347Sum\\Form1.cs [Design]",
               "RelativeToolTip": "Pg347Sum\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-30T19:12:32.556Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-04-30T19:12:32.556Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\daniel.szelogowsk\\Desktop\\Programming-II\\CSharp\\Prog310a\\Form1.cs",
               "RelativeDocumentMoniker": "Prog310a\\Form1.cs",
@@ -54,7 +53,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\daniel.szelogowsk\\Desktop\\Programming-II\\CSharp\\Prog310a\\Form1.cs",
               "RelativeDocumentMoniker": "Prog310a\\Form1.cs",
@@ -62,8 +61,7 @@
               "RelativeToolTip": "Prog310a\\Form1.cs",
               "ViewState": "AQIAAAUAAAAAAAAAAAAQwBUAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-30T18:59:07.314Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-30T18:59:07.314Z"
             }
           ]
         }
@@ -73,11 +71,11 @@
       "Orientation": 0,
       "VerticalTabListWidth": 256,
       "FloatingWindowState": {
-        "Id": "b58c4e58-a146-4c6e-b744-0c8d654d1c53",
+        "Id": "0c055c26-9ecd-4edb-8487-8f98e93a56b3",
         "Display": 1,
-        "X": 37,
-        "Y": 77,
-        "Width": 985,
+        "X": 72,
+        "Y": 69,
+        "Width": 919,
         "Height": 573,
         "WindowState": 0
       },
@@ -88,15 +86,15 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\daniel.szelogowsk\\Desktop\\Programming-II\\CSharp\\Pg347Sum\\Form1.cs",
-              "RelativeDocumentMoniker": "Pg347Sum\\Form1.cs",
-              "ToolTip": "C:\\Users\\daniel.szelogowsk\\Desktop\\Programming-II\\CSharp\\Pg347Sum\\Form1.cs",
-              "RelativeToolTip": "Pg347Sum\\Form1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\daniel.szelogowsk\\Desktop\\Programming-II\\CSharp\\CalcWithFunctions\\Program.cs",
+              "RelativeDocumentMoniker": "CalcWithFunctions\\Program.cs",
+              "ToolTip": "C:\\Users\\daniel.szelogowsk\\Desktop\\Programming-II\\CSharp\\CalcWithFunctions\\Program.cs",
+              "RelativeToolTip": "CalcWithFunctions\\Program.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAAAkAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-30T19:14:17.156Z",
+              "WhenOpened": "2024-05-06T18:51:25.711Z",
               "EditorCaption": ""
             }
           ]
