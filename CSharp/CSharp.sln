@@ -27,7 +27,14 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Prog310a", "Prog310a\Prog31
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pg347Sum", "Pg347Sum\Pg347Sum.csproj", "{F9373C33-0D38-4AB9-AF44-6C4EE03AF714}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalcWithFunctions", "CalcWithFunctions\CalcWithFunctions.csproj", "{2D0B8357-9414-441B-ADB1-97D1A3CEC8EA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CalcWithFunctions", "CalcWithFunctions\CalcWithFunctions.csproj", "{2D0B8357-9414-441B-ADB1-97D1A3CEC8EA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{662698F9-B1F2-46C4-ACD3-F44F4E7B27BE}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prog366b", "Prog366b\Prog366b.csproj", "{74F4187B-7783-407D-BD43-C19EA5588287}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -87,6 +94,10 @@ Global
 		{2D0B8357-9414-441B-ADB1-97D1A3CEC8EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2D0B8357-9414-441B-ADB1-97D1A3CEC8EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2D0B8357-9414-441B-ADB1-97D1A3CEC8EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74F4187B-7783-407D-BD43-C19EA5588287}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74F4187B-7783-407D-BD43-C19EA5588287}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74F4187B-7783-407D-BD43-C19EA5588287}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74F4187B-7783-407D-BD43-C19EA5588287}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
