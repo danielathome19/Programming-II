@@ -27,7 +27,7 @@ namespace Prog366b {
 
         // def is_prime(n: int, f: int) -> bool:
         public bool IsPrime(int n, int f) {
-            // Trial Division ALgorithm
+            // Trial Division Algorithm
             if (n <= 1) return false;
             if (n == 2 || f * f > n) return true;
             if (n % f == 0) return false;
