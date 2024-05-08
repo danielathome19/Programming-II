@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Pg347Sum")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1610e644960d463a5ca4097d2150290e03dc5b3c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f1cabd2c25edbf0ccb782ab23b14daf34bafdc49")]
 [assembly: System.Reflection.AssemblyProductAttribute("Pg347Sum")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Pg347Sum")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
