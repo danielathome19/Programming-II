@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LP4-5")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f1cabd2c25edbf0ccb782ab23b14daf34bafdc49")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9a1952d4e2dc31a870c4d6016a4d537396320d10")]
 [assembly: System.Reflection.AssemblyProductAttribute("LP4-5")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LP4-5")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

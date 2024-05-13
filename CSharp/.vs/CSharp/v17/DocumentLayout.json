@@ -3,24 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\daniel.szelogowsk\\Desktop\\Programming-II\\CSharp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{785EFB4C-D629-409E-9E1D-BAAE1DBB24FB}|Pg435TicketSalesCS\\Pg435TicketSalesCS.csproj|c:\\users\\daniel.szelogowsk\\desktop\\programming-ii\\csharp\\pg435ticketsalescs\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{785EFB4C-D629-409E-9E1D-BAAE1DBB24FB}|Pg435TicketSalesCS\\Pg435TicketSalesCS.csproj|solutionrelative:pg435ticketsalescs\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AEC50672-5041-4D6B-B0E9-C59F07E41F31}|Pg498Payroll\\Pg498Payroll.csproj|c:\\users\\daniel.szelogowsk\\desktop\\programming-ii\\csharp\\pg498payroll\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEC50672-5041-4D6B-B0E9-C59F07E41F31}|Pg498Payroll\\Pg498Payroll.csproj|solutionrelative:pg498payroll\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{785EFB4C-D629-409E-9E1D-BAAE1DBB24FB}|Pg435TicketSalesCS\\Pg435TicketSalesCS.csproj|c:\\users\\daniel.szelogowsk\\desktop\\programming-ii\\csharp\\pg435ticketsalescs\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{785EFB4C-D629-409E-9E1D-BAAE1DBB24FB}|Pg435TicketSalesCS\\Pg435TicketSalesCS.csproj|solutionrelative:pg435ticketsalescs\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{785EFB4C-D629-409E-9E1D-BAAE1DBB24FB}|Pg435TicketSalesCS\\Pg435TicketSalesCS.csproj|c:\\users\\daniel.szelogowsk\\desktop\\programming-ii\\csharp\\pg435ticketsalescs\\generalform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{785EFB4C-D629-409E-9E1D-BAAE1DBB24FB}|Pg435TicketSalesCS\\Pg435TicketSalesCS.csproj|solutionrelative:pg435ticketsalescs\\generalform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{785EFB4C-D629-409E-9E1D-BAAE1DBB24FB}|Pg435TicketSalesCS\\Pg435TicketSalesCS.csproj|c:\\users\\daniel.szelogowsk\\desktop\\programming-ii\\csharp\\pg435ticketsalescs\\studentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{785EFB4C-D629-409E-9E1D-BAAE1DBB24FB}|Pg435TicketSalesCS\\Pg435TicketSalesCS.csproj|solutionrelative:pg435ticketsalescs\\studentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{785EFB4C-D629-409E-9E1D-BAAE1DBB24FB}|Pg435TicketSalesCS\\Pg435TicketSalesCS.csproj|c:\\users\\daniel.szelogowsk\\desktop\\programming-ii\\csharp\\pg435ticketsalescs\\studentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{785EFB4C-D629-409E-9E1D-BAAE1DBB24FB}|Pg435TicketSalesCS\\Pg435TicketSalesCS.csproj|solutionrelative:pg435ticketsalescs\\studentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{AEC50672-5041-4D6B-B0E9-C59F07E41F31}|Pg498Payroll\\Pg498Payroll.csproj|c:\\users\\daniel.szelogowsk\\desktop\\programming-ii\\csharp\\pg498payroll\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AEC50672-5041-4D6B-B0E9-C59F07E41F31}|Pg498Payroll\\Pg498Payroll.csproj|solutionrelative:pg498payroll\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,70 +18,53 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "StudentForm.cs",
-              "DocumentMoniker": "C:\\Users\\daniel.szelogowsk\\Desktop\\Programming-II\\CSharp\\Pg435TicketSalesCS\\StudentForm.cs",
-              "RelativeDocumentMoniker": "Pg435TicketSalesCS\\StudentForm.cs",
-              "ToolTip": "C:\\Users\\daniel.szelogowsk\\Desktop\\Programming-II\\CSharp\\Pg435TicketSalesCS\\StudentForm.cs",
-              "RelativeToolTip": "Pg435TicketSalesCS\\StudentForm.cs",
-              "ViewState": "AQIAABIAAAAAAAAAAAAAABsAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-08T19:16:45.142Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "StudentForm.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\daniel.szelogowsk\\Desktop\\Programming-II\\CSharp\\Pg435TicketSalesCS\\StudentForm.cs",
-              "RelativeDocumentMoniker": "Pg435TicketSalesCS\\StudentForm.cs",
-              "ToolTip": "C:\\Users\\daniel.szelogowsk\\Desktop\\Programming-II\\CSharp\\Pg435TicketSalesCS\\StudentForm.cs [Design]",
-              "RelativeToolTip": "Pg435TicketSalesCS\\StudentForm.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-08T19:15:51.583Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "GeneralForm.cs",
-              "DocumentMoniker": "C:\\Users\\daniel.szelogowsk\\Desktop\\Programming-II\\CSharp\\Pg435TicketSalesCS\\GeneralForm.cs",
-              "RelativeDocumentMoniker": "Pg435TicketSalesCS\\GeneralForm.cs",
-              "ToolTip": "C:\\Users\\daniel.szelogowsk\\Desktop\\Programming-II\\CSharp\\Pg435TicketSalesCS\\GeneralForm.cs",
-              "RelativeToolTip": "Pg435TicketSalesCS\\GeneralForm.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAwAAAAeAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-08T19:05:35.165Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\daniel.szelogowsk\\Desktop\\Programming-II\\CSharp\\Pg435TicketSalesCS\\Form1.cs",
-              "RelativeDocumentMoniker": "Pg435TicketSalesCS\\Form1.cs",
-              "ToolTip": "C:\\Users\\daniel.szelogowsk\\Desktop\\Programming-II\\CSharp\\Pg435TicketSalesCS\\Form1.cs",
-              "RelativeToolTip": "Pg435TicketSalesCS\\Form1.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAIAwwBYAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-08T19:20:53.992Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\daniel.szelogowsk\\Desktop\\Programming-II\\CSharp\\Pg435TicketSalesCS\\Form1.cs",
-              "RelativeDocumentMoniker": "Pg435TicketSalesCS\\Form1.cs",
-              "ToolTip": "C:\\Users\\daniel.szelogowsk\\Desktop\\Programming-II\\CSharp\\Pg435TicketSalesCS\\Form1.cs [Design]",
-              "RelativeToolTip": "Pg435TicketSalesCS\\Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\daniel.szelogowsk\\Desktop\\Programming-II\\CSharp\\Pg498Payroll\\Form1.cs",
+              "RelativeDocumentMoniker": "Pg498Payroll\\Form1.cs",
+              "ToolTip": "C:\\Users\\daniel.szelogowsk\\Desktop\\Programming-II\\CSharp\\Pg498Payroll\\Form1.cs [Design]",
+              "RelativeToolTip": "Pg498Payroll\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-08T18:59:57.246Z",
+              "WhenOpened": "2024-05-13T18:51:56.567Z",
               "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "4817e150-ec34-4617-bf47-463cf417cbe6",
+        "Display": 1,
+        "X": 130,
+        "Y": 98,
+        "Width": 716,
+        "Height": 573,
+        "WindowState": 0
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\daniel.szelogowsk\\Desktop\\Programming-II\\CSharp\\Pg498Payroll\\Form1.cs",
+              "RelativeDocumentMoniker": "Pg498Payroll\\Form1.cs",
+              "ToolTip": "C:\\Users\\daniel.szelogowsk\\Desktop\\Programming-II\\CSharp\\Pg498Payroll\\Form1.cs",
+              "RelativeToolTip": "Pg498Payroll\\Form1.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAEwCgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T18:53:59.102Z",
+              "EditorCaption": ""
             }
           ]
         }
