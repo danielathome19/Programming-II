@@ -1,0 +1,15 @@
+C:\Users\daniel.szelogowsk\Desktop\Programming-II\CSharp\StrInterview16\bin\Debug\net8.0\StrInterview16.exe
+C:\Users\daniel.szelogowsk\Desktop\Programming-II\CSharp\StrInterview16\bin\Debug\net8.0\StrInterview16.deps.json
+C:\Users\daniel.szelogowsk\Desktop\Programming-II\CSharp\StrInterview16\bin\Debug\net8.0\StrInterview16.runtimeconfig.json
+C:\Users\daniel.szelogowsk\Desktop\Programming-II\CSharp\StrInterview16\bin\Debug\net8.0\StrInterview16.dll
+C:\Users\daniel.szelogowsk\Desktop\Programming-II\CSharp\StrInterview16\bin\Debug\net8.0\StrInterview16.pdb
+C:\Users\daniel.szelogowsk\Desktop\Programming-II\CSharp\StrInterview16\obj\Debug\net8.0\StrInterview16.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\daniel.szelogowsk\Desktop\Programming-II\CSharp\StrInterview16\obj\Debug\net8.0\StrInterview16.AssemblyInfoInputs.cache
+C:\Users\daniel.szelogowsk\Desktop\Programming-II\CSharp\StrInterview16\obj\Debug\net8.0\StrInterview16.AssemblyInfo.cs
+C:\Users\daniel.szelogowsk\Desktop\Programming-II\CSharp\StrInterview16\obj\Debug\net8.0\StrInterview16.csproj.CoreCompileInputs.cache
+C:\Users\daniel.szelogowsk\Desktop\Programming-II\CSharp\StrInterview16\obj\Debug\net8.0\StrInterview16.sourcelink.json
+C:\Users\daniel.szelogowsk\Desktop\Programming-II\CSharp\StrInterview16\obj\Debug\net8.0\StrInterview16.dll
+C:\Users\daniel.szelogowsk\Desktop\Programming-II\CSharp\StrInterview16\obj\Debug\net8.0\refint\StrInterview16.dll
+C:\Users\daniel.szelogowsk\Desktop\Programming-II\CSharp\StrInterview16\obj\Debug\net8.0\StrInterview16.pdb
+C:\Users\daniel.szelogowsk\Desktop\Programming-II\CSharp\StrInterview16\obj\Debug\net8.0\StrInterview16.genruntimeconfig.cache
+C:\Users\daniel.szelogowsk\Desktop\Programming-II\CSharp\StrInterview16\obj\Debug\net8.0\ref\StrInterview16.dll
