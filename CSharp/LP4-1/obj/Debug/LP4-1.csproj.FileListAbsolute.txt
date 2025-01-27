@@ -1,7 +1,0 @@
-C:\Users\daniel.szelogowsk\Desktop\Programming-II\CSharp\LP4-1\bin\Debug\LP4-1.exe.config
-C:\Users\daniel.szelogowsk\Desktop\Programming-II\CSharp\LP4-1\bin\Debug\LP4-1.exe
-C:\Users\daniel.szelogowsk\Desktop\Programming-II\CSharp\LP4-1\bin\Debug\LP4-1.pdb
-C:\Users\daniel.szelogowsk\Desktop\Programming-II\CSharp\LP4-1\obj\Debug\LP4-1.exe
-C:\Users\daniel.szelogowsk\Desktop\Programming-II\CSharp\LP4-1\obj\Debug\LP4-1.pdb
-C:\Users\daniel.szelogowsk\Desktop\Programming-II\CSharp\LP4-1\obj\Debug\LP4-1.csproj.AssemblyReference.cache
-C:\Users\daniel.szelogowsk\Desktop\Programming-II\CSharp\LP4-1\obj\Debug\LP4-1.csproj.CoreCompileInputs.cache

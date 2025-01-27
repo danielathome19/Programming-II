@@ -1,0 +1,14 @@
+C:\Users\daniel.szelogowsk\Desktop\Computer-Programming-II\Hello\bin\Debug\Hello.exe.config
+C:\Users\daniel.szelogowsk\Desktop\Computer-Programming-II\Hello\bin\Debug\Hello.exe
+C:\Users\daniel.szelogowsk\Desktop\Computer-Programming-II\Hello\bin\Debug\Hello.dll
+C:\Users\daniel.szelogowsk\Desktop\Computer-Programming-II\Hello\bin\Debug\IronPython.dll
+C:\Users\daniel.szelogowsk\Desktop\Computer-Programming-II\Hello\bin\Debug\IronPython.Modules.dll
+C:\Users\daniel.szelogowsk\Desktop\Computer-Programming-II\Hello\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\daniel.szelogowsk\Desktop\Computer-Programming-II\Hello\bin\Debug\Microsoft.Scripting.dll
+C:\Users\daniel.szelogowsk\Desktop\Computer-Programming-II\Hello\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\daniel.szelogowsk\Desktop\Computer-Programming-II\Hello\bin\Debug\IronPython.xml
+C:\Users\daniel.szelogowsk\Desktop\Computer-Programming-II\Hello\bin\Debug\IronPython.Modules.xml
+C:\Users\daniel.szelogowsk\Desktop\Computer-Programming-II\Hello\obj\x86\Debug\Hello.pyprojResolveAssemblyReference.cache
+C:\Users\daniel.szelogowsk\Desktop\Computer-Programming-II\Hello\obj\x86\Debug\Hello.MainForm.resources
+C:\Users\daniel.szelogowsk\Desktop\Computer-Programming-II\Hello\obj\x86\Debug\Hello.pyproj.GenerateResource.Cache
+C:\Users\daniel.szelogowsk\Desktop\Computer-Programming-II\Hello\obj\x86\Debug\Hello.exe

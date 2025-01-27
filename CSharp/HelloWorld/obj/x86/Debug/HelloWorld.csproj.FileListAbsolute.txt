@@ -1,8 +1,0 @@
-C:\Users\daniel.szelogowsk\Desktop\Programming-II\CSharp\HelloWorld\bin\Debug\HelloWorld.exe.config
-C:\Users\daniel.szelogowsk\Desktop\Programming-II\CSharp\HelloWorld\bin\Debug\HelloWorld.exe
-C:\Users\daniel.szelogowsk\Desktop\Programming-II\CSharp\HelloWorld\bin\Debug\HelloWorld.pdb
-C:\Users\daniel.szelogowsk\Desktop\Programming-II\CSharp\HelloWorld\obj\x86\Debug\HelloWorld.csprojResolveAssemblyReference.cache
-C:\Users\daniel.szelogowsk\Desktop\Programming-II\CSharp\HelloWorld\obj\x86\Debug\HelloWorld.MainForm.resources
-C:\Users\daniel.szelogowsk\Desktop\Programming-II\CSharp\HelloWorld\obj\x86\Debug\HelloWorld.csproj.GenerateResource.Cache
-C:\Users\daniel.szelogowsk\Desktop\Programming-II\CSharp\HelloWorld\obj\x86\Debug\HelloWorld.exe
-C:\Users\daniel.szelogowsk\Desktop\Programming-II\CSharp\HelloWorld\obj\x86\Debug\HelloWorld.pdb
