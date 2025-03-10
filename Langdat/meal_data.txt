@@ -1,0 +1,29 @@
+4
+ClassicLasagna Pasta:2 Sauce:3 Cheese:2
+VeganBowl Quinoa:2 Chickpeas:3 Spinach:2
+GrilledSalmon Salmon:2 Lemons:1 Herbs:1
+SpicyTacos Tortillas:3 Beans:2 Salsa:2
+5
+Pasta 10
+Sauce 8
+Cheese 5
+Quinoa 4
+Chickpeas 5
+2
+Herbs:4 Spinach:5 Lemons:4
+Tortillas:10 Beans:8 Salsa:6
+3
+ClassicLasagna 2
+VeganBowl 1
+SpicyTacos 2
+4
+ADD_FRONT GrilledSalmon
+ADD_BACK SpicyTacos
+REMOVE_FRONT
+ADD_FRONT VeganBowl
+5
+VIEW ClassicLasagna
+VIEW Sauce
+VIEW VeganBowl
+VIEW Chickpeas
+VIEW GrilledSalmon
