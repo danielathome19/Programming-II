@@ -5,7 +5,7 @@ from random import randint
 def maxMatrices(mat1, mat2):
     rows = len(mat1)
     cols = len(mat1[0])
-    mOut = np.empty((rows, cols), dtype='int')
+    mOut = np.empty((rows, cols), dtype='int')  # [[0] * cols for _ in range(rows)]
     for r in range(rows):
         for c in range(cols):
             mOut[r][c] = max(mat1[r][c], mat2[r][c])
