@@ -1,0 +1,15 @@
+C:\Users\daniel.szelogowsk\Desktop\Programming-II\CSharp\HelloName\bin\Debug\net8.0\HelloName.exe
+C:\Users\daniel.szelogowsk\Desktop\Programming-II\CSharp\HelloName\bin\Debug\net8.0\HelloName.deps.json
+C:\Users\daniel.szelogowsk\Desktop\Programming-II\CSharp\HelloName\bin\Debug\net8.0\HelloName.runtimeconfig.json
+C:\Users\daniel.szelogowsk\Desktop\Programming-II\CSharp\HelloName\bin\Debug\net8.0\HelloName.dll
+C:\Users\daniel.szelogowsk\Desktop\Programming-II\CSharp\HelloName\bin\Debug\net8.0\HelloName.pdb
+C:\Users\daniel.szelogowsk\Desktop\Programming-II\CSharp\HelloName\obj\Debug\net8.0\HelloName.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\daniel.szelogowsk\Desktop\Programming-II\CSharp\HelloName\obj\Debug\net8.0\HelloName.AssemblyInfoInputs.cache
+C:\Users\daniel.szelogowsk\Desktop\Programming-II\CSharp\HelloName\obj\Debug\net8.0\HelloName.AssemblyInfo.cs
+C:\Users\daniel.szelogowsk\Desktop\Programming-II\CSharp\HelloName\obj\Debug\net8.0\HelloName.csproj.CoreCompileInputs.cache
+C:\Users\daniel.szelogowsk\Desktop\Programming-II\CSharp\HelloName\obj\Debug\net8.0\HelloName.sourcelink.json
+C:\Users\daniel.szelogowsk\Desktop\Programming-II\CSharp\HelloName\obj\Debug\net8.0\HelloName.dll
+C:\Users\daniel.szelogowsk\Desktop\Programming-II\CSharp\HelloName\obj\Debug\net8.0\refint\HelloName.dll
+C:\Users\daniel.szelogowsk\Desktop\Programming-II\CSharp\HelloName\obj\Debug\net8.0\HelloName.pdb
+C:\Users\daniel.szelogowsk\Desktop\Programming-II\CSharp\HelloName\obj\Debug\net8.0\HelloName.genruntimeconfig.cache
+C:\Users\daniel.szelogowsk\Desktop\Programming-II\CSharp\HelloName\obj\Debug\net8.0\ref\HelloName.dll
