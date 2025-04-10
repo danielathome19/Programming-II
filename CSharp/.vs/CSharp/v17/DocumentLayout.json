@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\daniel.szelogowsk\\Desktop\\Programming-II\\CSharp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0A7492D4-8794-467B-B83E-D39D25865108}|HelloWorld\\HelloWorld.csproj|c:\\users\\daniel.szelogowsk\\desktop\\programming-ii\\csharp\\helloworld\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{0A7492D4-8794-467B-B83E-D39D25865108}|HelloWorld\\HelloWorld.csproj|solutionrelative:helloworld\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{458B20C1-C289-40BF-A7BC-A704CAF3C24D}|Prog52a\\Prog52a.csproj|c:\\users\\daniel.szelogowsk\\desktop\\programming-ii\\csharp\\prog52a\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{458B20C1-C289-40BF-A7BC-A704CAF3C24D}|Prog52a\\Prog52a.csproj|solutionrelative:prog52a\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{40005270-20E9-4F20-8480-1810CDB33CE6}|HelloName\\HelloNameOld.csproj|c:\\users\\daniel.szelogowsk\\desktop\\programming-ii\\csharp\\helloname\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{40005270-20E9-4F20-8480-1810CDB33CE6}|HelloName\\HelloNameOld.csproj|solutionrelative:helloname\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0A7492D4-8794-467B-B83E-D39D25865108}|HelloWorld\\HelloWorld.csproj|c:\\users\\daniel.szelogowsk\\desktop\\programming-ii\\csharp\\helloworld\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0A7492D4-8794-467B-B83E-D39D25865108}|HelloWorld\\HelloWorld.csproj|solutionrelative:helloworld\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,11 +18,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\daniel.szelogowsk\\Desktop\\Programming-II\\CSharp\\Prog52a\\Program.cs",
+              "RelativeDocumentMoniker": "Prog52a\\Program.cs",
+              "ToolTip": "C:\\Users\\daniel.szelogowsk\\Desktop\\Programming-II\\CSharp\\Prog52a\\Program.cs",
+              "RelativeToolTip": "Prog52a\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T19:46:56.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\daniel.szelogowsk\\Desktop\\Programming-II\\CSharp\\HelloWorld\\Form1.cs",
               "RelativeDocumentMoniker": "HelloWorld\\Form1.cs",
@@ -31,40 +44,6 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-09T19:46:58.113Z",
               "EditorCaption": " [Design]"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "Orientation": 0,
-      "VerticalTabListWidth": 256,
-      "FloatingWindowState": {
-        "Id": "dd25bdcf-d722-4259-bca6-36747179aea5",
-        "Display": 1,
-        "X": 183,
-        "Y": 127,
-        "Width": 770,
-        "Height": 573,
-        "WindowState": 0
-      },
-      "DocumentGroups": [
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 0,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\daniel.szelogowsk\\Desktop\\Programming-II\\CSharp\\HelloName\\Program.cs",
-              "RelativeDocumentMoniker": "HelloName\\Program.cs",
-              "ToolTip": "C:\\Users\\daniel.szelogowsk\\Desktop\\Programming-II\\CSharp\\HelloName\\Program.cs",
-              "RelativeToolTip": "HelloName\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAlAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-09T19:59:53.168Z",
-              "EditorCaption": ""
             }
           ]
         }
