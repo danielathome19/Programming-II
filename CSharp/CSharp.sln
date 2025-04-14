@@ -9,9 +9,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloNameOld", "HelloName\H
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HelloName", "HelloName\HelloName.csproj", "{898DB0CD-647C-4615-8014-4D2CD42501E7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prog52a", "Prog52a\Prog52a.csproj", "{458B20C1-C289-40BF-A7BC-A704CAF3C24D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Prog52a", "Prog52a\Prog52a.csproj", "{458B20C1-C289-40BF-A7BC-A704CAF3C24D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prog54b", "Prog54b\Prog54b.csproj", "{01B35E50-DEAD-443C-9A7D-FEA211DCDD4D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Prog54b", "Prog54b\Prog54b.csproj", "{01B35E50-DEAD-443C-9A7D-FEA211DCDD4D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prog54a", "Prog54a\Prog54a.csproj", "{00E5E99A-1EBF-43F9-897F-77D2F2B104C2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{01B35E50-DEAD-443C-9A7D-FEA211DCDD4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{01B35E50-DEAD-443C-9A7D-FEA211DCDD4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{01B35E50-DEAD-443C-9A7D-FEA211DCDD4D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00E5E99A-1EBF-43F9-897F-77D2F2B104C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00E5E99A-1EBF-43F9-897F-77D2F2B104C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00E5E99A-1EBF-43F9-897F-77D2F2B104C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00E5E99A-1EBF-43F9-897F-77D2F2B104C2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

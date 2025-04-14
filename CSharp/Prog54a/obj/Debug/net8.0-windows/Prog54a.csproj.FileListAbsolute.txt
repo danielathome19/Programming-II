@@ -1,0 +1,17 @@
+C:\Users\daniel.szelogowsk\Desktop\Programming-II\CSharp\Prog54a\bin\Debug\net8.0-windows\Prog54a.exe
+C:\Users\daniel.szelogowsk\Desktop\Programming-II\CSharp\Prog54a\bin\Debug\net8.0-windows\Prog54a.deps.json
+C:\Users\daniel.szelogowsk\Desktop\Programming-II\CSharp\Prog54a\bin\Debug\net8.0-windows\Prog54a.runtimeconfig.json
+C:\Users\daniel.szelogowsk\Desktop\Programming-II\CSharp\Prog54a\bin\Debug\net8.0-windows\Prog54a.dll
+C:\Users\daniel.szelogowsk\Desktop\Programming-II\CSharp\Prog54a\bin\Debug\net8.0-windows\Prog54a.pdb
+C:\Users\daniel.szelogowsk\Desktop\Programming-II\CSharp\Prog54a\obj\Debug\net8.0-windows\Prog54a.Form1.resources
+C:\Users\daniel.szelogowsk\Desktop\Programming-II\CSharp\Prog54a\obj\Debug\net8.0-windows\Prog54a.csproj.GenerateResource.cache
+C:\Users\daniel.szelogowsk\Desktop\Programming-II\CSharp\Prog54a\obj\Debug\net8.0-windows\Prog54a.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\daniel.szelogowsk\Desktop\Programming-II\CSharp\Prog54a\obj\Debug\net8.0-windows\Prog54a.AssemblyInfoInputs.cache
+C:\Users\daniel.szelogowsk\Desktop\Programming-II\CSharp\Prog54a\obj\Debug\net8.0-windows\Prog54a.AssemblyInfo.cs
+C:\Users\daniel.szelogowsk\Desktop\Programming-II\CSharp\Prog54a\obj\Debug\net8.0-windows\Prog54a.csproj.CoreCompileInputs.cache
+C:\Users\daniel.szelogowsk\Desktop\Programming-II\CSharp\Prog54a\obj\Debug\net8.0-windows\Prog54a.sourcelink.json
+C:\Users\daniel.szelogowsk\Desktop\Programming-II\CSharp\Prog54a\obj\Debug\net8.0-windows\Prog54a.dll
+C:\Users\daniel.szelogowsk\Desktop\Programming-II\CSharp\Prog54a\obj\Debug\net8.0-windows\refint\Prog54a.dll
+C:\Users\daniel.szelogowsk\Desktop\Programming-II\CSharp\Prog54a\obj\Debug\net8.0-windows\Prog54a.pdb
+C:\Users\daniel.szelogowsk\Desktop\Programming-II\CSharp\Prog54a\obj\Debug\net8.0-windows\Prog54a.genruntimeconfig.cache
+C:\Users\daniel.szelogowsk\Desktop\Programming-II\CSharp\Prog54a\obj\Debug\net8.0-windows\ref\Prog54a.dll
