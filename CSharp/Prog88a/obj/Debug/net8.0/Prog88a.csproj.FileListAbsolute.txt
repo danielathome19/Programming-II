@@ -1,0 +1,15 @@
+C:\Users\daniel.szelogowsk\Desktop\Programming-II\CSharp\Prog88a\bin\Debug\net8.0\Prog88a.exe
+C:\Users\daniel.szelogowsk\Desktop\Programming-II\CSharp\Prog88a\bin\Debug\net8.0\Prog88a.deps.json
+C:\Users\daniel.szelogowsk\Desktop\Programming-II\CSharp\Prog88a\bin\Debug\net8.0\Prog88a.runtimeconfig.json
+C:\Users\daniel.szelogowsk\Desktop\Programming-II\CSharp\Prog88a\bin\Debug\net8.0\Prog88a.dll
+C:\Users\daniel.szelogowsk\Desktop\Programming-II\CSharp\Prog88a\bin\Debug\net8.0\Prog88a.pdb
+C:\Users\daniel.szelogowsk\Desktop\Programming-II\CSharp\Prog88a\obj\Debug\net8.0\Prog88a.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\daniel.szelogowsk\Desktop\Programming-II\CSharp\Prog88a\obj\Debug\net8.0\Prog88a.AssemblyInfoInputs.cache
+C:\Users\daniel.szelogowsk\Desktop\Programming-II\CSharp\Prog88a\obj\Debug\net8.0\Prog88a.AssemblyInfo.cs
+C:\Users\daniel.szelogowsk\Desktop\Programming-II\CSharp\Prog88a\obj\Debug\net8.0\Prog88a.csproj.CoreCompileInputs.cache
+C:\Users\daniel.szelogowsk\Desktop\Programming-II\CSharp\Prog88a\obj\Debug\net8.0\Prog88a.sourcelink.json
+C:\Users\daniel.szelogowsk\Desktop\Programming-II\CSharp\Prog88a\obj\Debug\net8.0\Prog88a.dll
+C:\Users\daniel.szelogowsk\Desktop\Programming-II\CSharp\Prog88a\obj\Debug\net8.0\refint\Prog88a.dll
+C:\Users\daniel.szelogowsk\Desktop\Programming-II\CSharp\Prog88a\obj\Debug\net8.0\Prog88a.pdb
+C:\Users\daniel.szelogowsk\Desktop\Programming-II\CSharp\Prog88a\obj\Debug\net8.0\Prog88a.genruntimeconfig.cache
+C:\Users\daniel.szelogowsk\Desktop\Programming-II\CSharp\Prog88a\obj\Debug\net8.0\ref\Prog88a.dll
