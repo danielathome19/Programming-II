@@ -1,0 +1,15 @@
+C:\Users\daniel.szelogowsk\Desktop\Programming-II\CSharp\LP4-5\bin\Debug\net8.0\LP4-5.exe
+C:\Users\daniel.szelogowsk\Desktop\Programming-II\CSharp\LP4-5\bin\Debug\net8.0\LP4-5.deps.json
+C:\Users\daniel.szelogowsk\Desktop\Programming-II\CSharp\LP4-5\bin\Debug\net8.0\LP4-5.runtimeconfig.json
+C:\Users\daniel.szelogowsk\Desktop\Programming-II\CSharp\LP4-5\bin\Debug\net8.0\LP4-5.dll
+C:\Users\daniel.szelogowsk\Desktop\Programming-II\CSharp\LP4-5\bin\Debug\net8.0\LP4-5.pdb
+C:\Users\daniel.szelogowsk\Desktop\Programming-II\CSharp\LP4-5\obj\Debug\net8.0\LP4-5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\daniel.szelogowsk\Desktop\Programming-II\CSharp\LP4-5\obj\Debug\net8.0\LP4-5.AssemblyInfoInputs.cache
+C:\Users\daniel.szelogowsk\Desktop\Programming-II\CSharp\LP4-5\obj\Debug\net8.0\LP4-5.AssemblyInfo.cs
+C:\Users\daniel.szelogowsk\Desktop\Programming-II\CSharp\LP4-5\obj\Debug\net8.0\LP4-5.csproj.CoreCompileInputs.cache
+C:\Users\daniel.szelogowsk\Desktop\Programming-II\CSharp\LP4-5\obj\Debug\net8.0\LP4-5.sourcelink.json
+C:\Users\daniel.szelogowsk\Desktop\Programming-II\CSharp\LP4-5\obj\Debug\net8.0\LP4-5.dll
+C:\Users\daniel.szelogowsk\Desktop\Programming-II\CSharp\LP4-5\obj\Debug\net8.0\refint\LP4-5.dll
+C:\Users\daniel.szelogowsk\Desktop\Programming-II\CSharp\LP4-5\obj\Debug\net8.0\LP4-5.pdb
+C:\Users\daniel.szelogowsk\Desktop\Programming-II\CSharp\LP4-5\obj\Debug\net8.0\LP4-5.genruntimeconfig.cache
+C:\Users\daniel.szelogowsk\Desktop\Programming-II\CSharp\LP4-5\obj\Debug\net8.0\ref\LP4-5.dll
