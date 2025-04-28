@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\daniel.szelogowsk\\Desktop\\Programming-II\\CSharp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{00E5E99A-1EBF-43F9-897F-77D2F2B104C2}|Prog54a\\Prog54a.csproj|c:\\users\\daniel.szelogowsk\\desktop\\programming-ii\\csharp\\prog54a\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{00E5E99A-1EBF-43F9-897F-77D2F2B104C2}|Prog54a\\Prog54a.csproj|solutionrelative:prog54a\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7C30A594-B9EA-4262-B689-0C31B6B6D50C}|Prog310a\\Prog310a.csproj|c:\\users\\daniel.szelogowsk\\desktop\\programming-ii\\csharp\\prog310a\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7C30A594-B9EA-4262-B689-0C31B6B6D50C}|Prog310a\\Prog310a.csproj|solutionrelative:prog310a\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0274ACE-8EAA-455B-8C2B-402BCF43035B}|Prog122a\\Prog122a.csproj|c:\\users\\daniel.szelogowsk\\desktop\\programming-ii\\csharp\\prog122a\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A0274ACE-8EAA-455B-8C2B-402BCF43035B}|Prog122a\\Prog122a.csproj|solutionrelative:prog122a\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,20 +18,31 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\daniel.szelogowsk\\Desktop\\Programming-II\\CSharp\\Prog54a\\Form1.cs",
-              "RelativeDocumentMoniker": "Prog54a\\Form1.cs",
-              "ToolTip": "C:\\Users\\daniel.szelogowsk\\Desktop\\Programming-II\\CSharp\\Prog54a\\Form1.cs",
-              "RelativeToolTip": "Prog54a\\Form1.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\daniel.szelogowsk\\Desktop\\Programming-II\\CSharp\\Prog310a\\Form1.cs",
+              "RelativeDocumentMoniker": "Prog310a\\Form1.cs",
+              "ToolTip": "C:\\Users\\daniel.szelogowsk\\Desktop\\Programming-II\\CSharp\\Prog310a\\Form1.cs [Design]",
+              "RelativeToolTip": "Prog310a\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-23T19:54:51.023Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-28T19:57:48.263Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\daniel.szelogowsk\\Desktop\\Programming-II\\CSharp\\Prog122a\\Form1.cs",
+              "RelativeDocumentMoniker": "Prog122a\\Form1.cs",
+              "ToolTip": "C:\\Users\\daniel.szelogowsk\\Desktop\\Programming-II\\CSharp\\Prog122a\\Form1.cs [Design]",
+              "RelativeToolTip": "Prog122a\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T19:43:22.788Z",
+              "EditorCaption": " [Design]"
             }
           ]
         }
