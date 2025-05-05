@@ -1,0 +1,15 @@
+C:\Users\daniel.szelogowsk\Desktop\Programming-II\CSharp\CalcWithFunctions\bin\Debug\net8.0\CalcWithFunctions.exe
+C:\Users\daniel.szelogowsk\Desktop\Programming-II\CSharp\CalcWithFunctions\bin\Debug\net8.0\CalcWithFunctions.deps.json
+C:\Users\daniel.szelogowsk\Desktop\Programming-II\CSharp\CalcWithFunctions\bin\Debug\net8.0\CalcWithFunctions.runtimeconfig.json
+C:\Users\daniel.szelogowsk\Desktop\Programming-II\CSharp\CalcWithFunctions\bin\Debug\net8.0\CalcWithFunctions.dll
+C:\Users\daniel.szelogowsk\Desktop\Programming-II\CSharp\CalcWithFunctions\bin\Debug\net8.0\CalcWithFunctions.pdb
+C:\Users\daniel.szelogowsk\Desktop\Programming-II\CSharp\CalcWithFunctions\obj\Debug\net8.0\CalcWithFunctions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\daniel.szelogowsk\Desktop\Programming-II\CSharp\CalcWithFunctions\obj\Debug\net8.0\CalcWithFunctions.AssemblyInfoInputs.cache
+C:\Users\daniel.szelogowsk\Desktop\Programming-II\CSharp\CalcWithFunctions\obj\Debug\net8.0\CalcWithFunctions.AssemblyInfo.cs
+C:\Users\daniel.szelogowsk\Desktop\Programming-II\CSharp\CalcWithFunctions\obj\Debug\net8.0\CalcWithFunctions.csproj.CoreCompileInputs.cache
+C:\Users\daniel.szelogowsk\Desktop\Programming-II\CSharp\CalcWithFunctions\obj\Debug\net8.0\CalcWithFunctions.sourcelink.json
+C:\Users\daniel.szelogowsk\Desktop\Programming-II\CSharp\CalcWithFunctions\obj\Debug\net8.0\CalcWithFunctions.dll
+C:\Users\daniel.szelogowsk\Desktop\Programming-II\CSharp\CalcWithFunctions\obj\Debug\net8.0\refint\CalcWithFunctions.dll
+C:\Users\daniel.szelogowsk\Desktop\Programming-II\CSharp\CalcWithFunctions\obj\Debug\net8.0\CalcWithFunctions.pdb
+C:\Users\daniel.szelogowsk\Desktop\Programming-II\CSharp\CalcWithFunctions\obj\Debug\net8.0\CalcWithFunctions.genruntimeconfig.cache
+C:\Users\daniel.szelogowsk\Desktop\Programming-II\CSharp\CalcWithFunctions\obj\Debug\net8.0\ref\CalcWithFunctions.dll

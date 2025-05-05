@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\daniel.szelogowsk\\Desktop\\Programming-II\\CSharp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7C30A594-B9EA-4262-B689-0C31B6B6D50C}|Prog310a\\Prog310a.csproj|c:\\users\\daniel.szelogowsk\\desktop\\programming-ii\\csharp\\prog310a\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{7C30A594-B9EA-4262-B689-0C31B6B6D50C}|Prog310a\\Prog310a.csproj|solutionrelative:prog310a\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{4A20B738-6CE4-4901-94C7-ED0465D1F747}|Pg435TicketSalesCS\\Pg435TicketSalesCS.csproj|c:\\users\\daniel.szelogowsk\\desktop\\programming-ii\\csharp\\pg435ticketsalescs\\studentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4A20B738-6CE4-4901-94C7-ED0465D1F747}|Pg435TicketSalesCS\\Pg435TicketSalesCS.csproj|solutionrelative:pg435ticketsalescs\\studentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A0274ACE-8EAA-455B-8C2B-402BCF43035B}|Prog122a\\Prog122a.csproj|c:\\users\\daniel.szelogowsk\\desktop\\programming-ii\\csharp\\prog122a\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{A0274ACE-8EAA-455B-8C2B-402BCF43035B}|Prog122a\\Prog122a.csproj|solutionrelative:prog122a\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{4A20B738-6CE4-4901-94C7-ED0465D1F747}|Pg435TicketSalesCS\\Pg435TicketSalesCS.csproj|c:\\users\\daniel.szelogowsk\\desktop\\programming-ii\\csharp\\pg435ticketsalescs\\generalform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A20B738-6CE4-4901-94C7-ED0465D1F747}|Pg435TicketSalesCS\\Pg435TicketSalesCS.csproj|solutionrelative:pg435ticketsalescs\\generalform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A20B738-6CE4-4901-94C7-ED0465D1F747}|Pg435TicketSalesCS\\Pg435TicketSalesCS.csproj|c:\\users\\daniel.szelogowsk\\desktop\\programming-ii\\csharp\\pg435ticketsalescs\\generalform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4A20B738-6CE4-4901-94C7-ED0465D1F747}|Pg435TicketSalesCS\\Pg435TicketSalesCS.csproj|solutionrelative:pg435ticketsalescs\\generalform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,31 +22,65 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\daniel.szelogowsk\\Desktop\\Programming-II\\CSharp\\Prog310a\\Form1.cs",
-              "RelativeDocumentMoniker": "Prog310a\\Form1.cs",
-              "ToolTip": "C:\\Users\\daniel.szelogowsk\\Desktop\\Programming-II\\CSharp\\Prog310a\\Form1.cs [Design]",
-              "RelativeToolTip": "Prog310a\\Form1.cs [Design]",
+              "Title": "StudentForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\daniel.szelogowsk\\Desktop\\Programming-II\\CSharp\\Pg435TicketSalesCS\\StudentForm.cs",
+              "RelativeDocumentMoniker": "Pg435TicketSalesCS\\StudentForm.cs",
+              "ToolTip": "C:\\Users\\daniel.szelogowsk\\Desktop\\Programming-II\\CSharp\\Pg435TicketSalesCS\\StudentForm.cs [Design]",
+              "RelativeToolTip": "Pg435TicketSalesCS\\StudentForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-28T19:57:48.263Z",
+              "WhenOpened": "2025-05-05T20:04:04.86Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\daniel.szelogowsk\\Desktop\\Programming-II\\CSharp\\Prog122a\\Form1.cs",
-              "RelativeDocumentMoniker": "Prog122a\\Form1.cs",
-              "ToolTip": "C:\\Users\\daniel.szelogowsk\\Desktop\\Programming-II\\CSharp\\Prog122a\\Form1.cs [Design]",
-              "RelativeToolTip": "Prog122a\\Form1.cs [Design]",
+              "DocumentIndex": 2,
+              "Title": "GeneralForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\daniel.szelogowsk\\Desktop\\Programming-II\\CSharp\\Pg435TicketSalesCS\\GeneralForm.cs",
+              "RelativeDocumentMoniker": "Pg435TicketSalesCS\\GeneralForm.cs",
+              "ToolTip": "C:\\Users\\daniel.szelogowsk\\Desktop\\Programming-II\\CSharp\\Pg435TicketSalesCS\\GeneralForm.cs [Design]",
+              "RelativeToolTip": "Pg435TicketSalesCS\\GeneralForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-28T19:43:22.788Z",
+              "WhenOpened": "2025-05-05T20:03:27.269Z",
               "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "b46b4b7d-f5ff-4438-80e7-8488bacd9b1c",
+        "Display": 1,
+        "X": -9,
+        "Y": 85,
+        "Width": 994,
+        "Height": 573,
+        "WindowState": 0
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GeneralForm.cs",
+              "DocumentMoniker": "C:\\Users\\daniel.szelogowsk\\Desktop\\Programming-II\\CSharp\\Pg435TicketSalesCS\\GeneralForm.cs",
+              "RelativeDocumentMoniker": "Pg435TicketSalesCS\\GeneralForm.cs",
+              "ToolTip": "C:\\Users\\daniel.szelogowsk\\Desktop\\Programming-II\\CSharp\\Pg435TicketSalesCS\\GeneralForm.cs",
+              "RelativeToolTip": "Pg435TicketSalesCS\\GeneralForm.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAABwAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T20:05:49.763Z",
+              "EditorCaption": ""
             }
           ]
         }
