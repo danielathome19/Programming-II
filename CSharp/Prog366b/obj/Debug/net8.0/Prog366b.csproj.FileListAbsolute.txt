@@ -1,0 +1,15 @@
+C:\Users\daniel.szelogowsk\Desktop\Programming-II\CSharp\Prog366b\bin\Debug\net8.0\Prog366b.exe
+C:\Users\daniel.szelogowsk\Desktop\Programming-II\CSharp\Prog366b\bin\Debug\net8.0\Prog366b.deps.json
+C:\Users\daniel.szelogowsk\Desktop\Programming-II\CSharp\Prog366b\bin\Debug\net8.0\Prog366b.runtimeconfig.json
+C:\Users\daniel.szelogowsk\Desktop\Programming-II\CSharp\Prog366b\bin\Debug\net8.0\Prog366b.dll
+C:\Users\daniel.szelogowsk\Desktop\Programming-II\CSharp\Prog366b\bin\Debug\net8.0\Prog366b.pdb
+C:\Users\daniel.szelogowsk\Desktop\Programming-II\CSharp\Prog366b\obj\Debug\net8.0\Prog366b.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\daniel.szelogowsk\Desktop\Programming-II\CSharp\Prog366b\obj\Debug\net8.0\Prog366b.AssemblyInfoInputs.cache
+C:\Users\daniel.szelogowsk\Desktop\Programming-II\CSharp\Prog366b\obj\Debug\net8.0\Prog366b.AssemblyInfo.cs
+C:\Users\daniel.szelogowsk\Desktop\Programming-II\CSharp\Prog366b\obj\Debug\net8.0\Prog366b.csproj.CoreCompileInputs.cache
+C:\Users\daniel.szelogowsk\Desktop\Programming-II\CSharp\Prog366b\obj\Debug\net8.0\Prog366b.sourcelink.json
+C:\Users\daniel.szelogowsk\Desktop\Programming-II\CSharp\Prog366b\obj\Debug\net8.0\Prog366b.dll
+C:\Users\daniel.szelogowsk\Desktop\Programming-II\CSharp\Prog366b\obj\Debug\net8.0\refint\Prog366b.dll
+C:\Users\daniel.szelogowsk\Desktop\Programming-II\CSharp\Prog366b\obj\Debug\net8.0\Prog366b.pdb
+C:\Users\daniel.szelogowsk\Desktop\Programming-II\CSharp\Prog366b\obj\Debug\net8.0\Prog366b.genruntimeconfig.cache
+C:\Users\daniel.szelogowsk\Desktop\Programming-II\CSharp\Prog366b\obj\Debug\net8.0\ref\Prog366b.dll
