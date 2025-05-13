@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\daniel.szelogowsk\\Desktop\\Programming-II\\CSharp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B40DF678-74AD-460C-887B-FA3771B144AE}|StrInterview7\\StrInterview7.csproj|c:\\users\\daniel.szelogowsk\\desktop\\programming-ii\\csharp\\strinterview7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B40DF678-74AD-460C-887B-FA3771B144AE}|StrInterview7\\StrInterview7.csproj|solutionrelative:strinterview7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{08791BAF-52BC-44FF-8B62-4F0576C78940}|Pg498Payroll\\Pg498Payroll.csproj|c:\\users\\daniel.szelogowsk\\desktop\\programming-ii\\csharp\\pg498payroll\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{08791BAF-52BC-44FF-8B62-4F0576C78940}|Pg498Payroll\\Pg498Payroll.csproj|solutionrelative:pg498payroll\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{08791BAF-52BC-44FF-8B62-4F0576C78940}|Pg498Payroll\\Pg498Payroll.csproj|C:\\Users\\daniel.szelogowsk\\Desktop\\Programming-II\\CSharp\\pg498payroll\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{08791BAF-52BC-44FF-8B62-4F0576C78940}|Pg498Payroll\\Pg498Payroll.csproj|solutionrelative:pg498payroll\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{B40DF678-74AD-460C-887B-FA3771B144AE}|StrInterview7\\StrInterview7.csproj|C:\\Users\\daniel.szelogowsk\\Desktop\\Programming-II\\CSharp\\strinterview7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B40DF678-74AD-460C-887B-FA3771B144AE}|StrInterview7\\StrInterview7.csproj|solutionrelative:strinterview7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,11 +18,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\daniel.szelogowsk\\Desktop\\Programming-II\\CSharp\\StrInterview7\\Program.cs",
               "RelativeDocumentMoniker": "StrInterview7\\Program.cs",
@@ -30,12 +30,11 @@
               "RelativeToolTip": "StrInterview7\\Program.cs",
               "ViewState": "AQIAAAIAAAAAAAAAAAAAAAcAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T19:43:10.111Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-12T19:43:10.111Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\daniel.szelogowsk\\Desktop\\Programming-II\\CSharp\\Pg498Payroll\\Form1.cs",
               "RelativeDocumentMoniker": "Pg498Payroll\\Form1.cs",

@@ -1,0 +1,15 @@
+C:\Users\daniel.szelogowsk\Desktop\Programming-II\CSharp\ListDemo\bin\Debug\net8.0\ListDemo.exe
+C:\Users\daniel.szelogowsk\Desktop\Programming-II\CSharp\ListDemo\bin\Debug\net8.0\ListDemo.deps.json
+C:\Users\daniel.szelogowsk\Desktop\Programming-II\CSharp\ListDemo\bin\Debug\net8.0\ListDemo.runtimeconfig.json
+C:\Users\daniel.szelogowsk\Desktop\Programming-II\CSharp\ListDemo\bin\Debug\net8.0\ListDemo.dll
+C:\Users\daniel.szelogowsk\Desktop\Programming-II\CSharp\ListDemo\bin\Debug\net8.0\ListDemo.pdb
+C:\Users\daniel.szelogowsk\Desktop\Programming-II\CSharp\ListDemo\obj\Debug\net8.0\ListDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\daniel.szelogowsk\Desktop\Programming-II\CSharp\ListDemo\obj\Debug\net8.0\ListDemo.AssemblyInfoInputs.cache
+C:\Users\daniel.szelogowsk\Desktop\Programming-II\CSharp\ListDemo\obj\Debug\net8.0\ListDemo.AssemblyInfo.cs
+C:\Users\daniel.szelogowsk\Desktop\Programming-II\CSharp\ListDemo\obj\Debug\net8.0\ListDemo.csproj.CoreCompileInputs.cache
+C:\Users\daniel.szelogowsk\Desktop\Programming-II\CSharp\ListDemo\obj\Debug\net8.0\ListDemo.sourcelink.json
+C:\Users\daniel.szelogowsk\Desktop\Programming-II\CSharp\ListDemo\obj\Debug\net8.0\ListDemo.dll
+C:\Users\daniel.szelogowsk\Desktop\Programming-II\CSharp\ListDemo\obj\Debug\net8.0\refint\ListDemo.dll
+C:\Users\daniel.szelogowsk\Desktop\Programming-II\CSharp\ListDemo\obj\Debug\net8.0\ListDemo.pdb
+C:\Users\daniel.szelogowsk\Desktop\Programming-II\CSharp\ListDemo\obj\Debug\net8.0\ListDemo.genruntimeconfig.cache
+C:\Users\daniel.szelogowsk\Desktop\Programming-II\CSharp\ListDemo\obj\Debug\net8.0\ref\ListDemo.dll
