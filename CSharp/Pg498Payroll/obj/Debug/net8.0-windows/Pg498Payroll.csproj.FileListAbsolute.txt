@@ -1,0 +1,17 @@
+C:\Users\daniel.szelogowsk\Desktop\Programming-II\CSharp\Pg498Payroll\bin\Debug\net8.0-windows\Pg498Payroll.exe
+C:\Users\daniel.szelogowsk\Desktop\Programming-II\CSharp\Pg498Payroll\bin\Debug\net8.0-windows\Pg498Payroll.deps.json
+C:\Users\daniel.szelogowsk\Desktop\Programming-II\CSharp\Pg498Payroll\bin\Debug\net8.0-windows\Pg498Payroll.runtimeconfig.json
+C:\Users\daniel.szelogowsk\Desktop\Programming-II\CSharp\Pg498Payroll\bin\Debug\net8.0-windows\Pg498Payroll.dll
+C:\Users\daniel.szelogowsk\Desktop\Programming-II\CSharp\Pg498Payroll\bin\Debug\net8.0-windows\Pg498Payroll.pdb
+C:\Users\daniel.szelogowsk\Desktop\Programming-II\CSharp\Pg498Payroll\obj\Debug\net8.0-windows\Pg498Payroll.Form1.resources
+C:\Users\daniel.szelogowsk\Desktop\Programming-II\CSharp\Pg498Payroll\obj\Debug\net8.0-windows\Pg498Payroll.csproj.GenerateResource.cache
+C:\Users\daniel.szelogowsk\Desktop\Programming-II\CSharp\Pg498Payroll\obj\Debug\net8.0-windows\Pg498Payroll.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\daniel.szelogowsk\Desktop\Programming-II\CSharp\Pg498Payroll\obj\Debug\net8.0-windows\Pg498Payroll.AssemblyInfoInputs.cache
+C:\Users\daniel.szelogowsk\Desktop\Programming-II\CSharp\Pg498Payroll\obj\Debug\net8.0-windows\Pg498Payroll.AssemblyInfo.cs
+C:\Users\daniel.szelogowsk\Desktop\Programming-II\CSharp\Pg498Payroll\obj\Debug\net8.0-windows\Pg498Payroll.csproj.CoreCompileInputs.cache
+C:\Users\daniel.szelogowsk\Desktop\Programming-II\CSharp\Pg498Payroll\obj\Debug\net8.0-windows\Pg498Payroll.sourcelink.json
+C:\Users\daniel.szelogowsk\Desktop\Programming-II\CSharp\Pg498Payroll\obj\Debug\net8.0-windows\Pg498Payroll.dll
+C:\Users\daniel.szelogowsk\Desktop\Programming-II\CSharp\Pg498Payroll\obj\Debug\net8.0-windows\refint\Pg498Payroll.dll
+C:\Users\daniel.szelogowsk\Desktop\Programming-II\CSharp\Pg498Payroll\obj\Debug\net8.0-windows\Pg498Payroll.pdb
+C:\Users\daniel.szelogowsk\Desktop\Programming-II\CSharp\Pg498Payroll\obj\Debug\net8.0-windows\Pg498Payroll.genruntimeconfig.cache
+C:\Users\daniel.szelogowsk\Desktop\Programming-II\CSharp\Pg498Payroll\obj\Debug\net8.0-windows\ref\Pg498Payroll.dll

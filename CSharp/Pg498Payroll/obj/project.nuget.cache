@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Maob0qWcf1M+Ns2Xoi42Lj1thdtSJA25hZfhhh2De3Gdg6mcxwroRTdb3S1A1KEzbKhhkP5AADX/ZAJnXtHgLA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\daniel.szelogowsk\\Desktop\\Programming-II\\CSharp\\Pg498Payroll\\Pg498Payroll.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\daniel.szelogowsk\\.nuget\\packages\\microsoft.visualbasic\\10.3.0\\microsoft.visualbasic.10.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}

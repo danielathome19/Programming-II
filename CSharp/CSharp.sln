@@ -27,7 +27,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CalcWithFunctions", "CalcWi
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pg435TicketSalesCS", "Pg435TicketSalesCS\Pg435TicketSalesCS.csproj", "{4A20B738-6CE4-4901-94C7-ED0465D1F747}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prog366b", "Prog366b\Prog366b.csproj", "{48FB7A08-3CD6-454D-8D4F-84A3F5C469A8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Prog366b", "Prog366b\Prog366b.csproj", "{48FB7A08-3CD6-454D-8D4F-84A3F5C469A8}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pg498Payroll", "Pg498Payroll\Pg498Payroll.csproj", "{08791BAF-52BC-44FF-8B62-4F0576C78940}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StrInterview7", "StrInterview7\StrInterview7.csproj", "{B40DF678-74AD-460C-887B-FA3771B144AE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StrInterview16", "StrInterview16\StrInterview16.csproj", "{B748593E-6E41-462F-826A-1CAFA1760618}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -87,6 +93,18 @@ Global
 		{48FB7A08-3CD6-454D-8D4F-84A3F5C469A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{48FB7A08-3CD6-454D-8D4F-84A3F5C469A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{48FB7A08-3CD6-454D-8D4F-84A3F5C469A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08791BAF-52BC-44FF-8B62-4F0576C78940}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08791BAF-52BC-44FF-8B62-4F0576C78940}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08791BAF-52BC-44FF-8B62-4F0576C78940}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08791BAF-52BC-44FF-8B62-4F0576C78940}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B40DF678-74AD-460C-887B-FA3771B144AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B40DF678-74AD-460C-887B-FA3771B144AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B40DF678-74AD-460C-887B-FA3771B144AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B40DF678-74AD-460C-887B-FA3771B144AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B748593E-6E41-462F-826A-1CAFA1760618}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B748593E-6E41-462F-826A-1CAFA1760618}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B748593E-6E41-462F-826A-1CAFA1760618}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B748593E-6E41-462F-826A-1CAFA1760618}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
